@@ -1,7 +1,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Hi👋, I'm Matt!
-A passionate full-stack developer from Winnipeg, MB!<br>🎓 RRC Polytech Business Information Technology Graduate<br>🔭 I’m currently open to Developer, Full Stack Developer, Software Developer, and Web Developer roles
+A passionate full-stack developer from Winnipeg, MB!<br>🎓 RRC Polytech Business Information Technology Graduate<br>🔭 I’m currently open to Developer, Full Stack Developer, Software Developer, and Web Developer roles<br> Personal Project: BaseTrackr - a web application for tracking baseball statistics for your team. Built with React, it allows you to manage players, log game results, and view team and player performance over time. 
 
 # 💻 Tech Stack
 
